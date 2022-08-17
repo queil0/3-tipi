@@ -1,0 +1,8 @@
+{
+  "name": "3-tipi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "2fe02ff0"
+}
